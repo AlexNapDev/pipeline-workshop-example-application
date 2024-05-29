@@ -2,7 +2,7 @@ name: run at scheduled time
 
 on:
   schedule:
-    - cron: '00 15 * * *'
+    - cron: '16 13 * * *'
 
 jobs:
   nightly_build:
