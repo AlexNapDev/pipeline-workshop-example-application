@@ -1,6 +1,6 @@
 name: run at scheduled time
 
-on:
+off:
   schedule:
     - cron: '16 13 * * *'
 
